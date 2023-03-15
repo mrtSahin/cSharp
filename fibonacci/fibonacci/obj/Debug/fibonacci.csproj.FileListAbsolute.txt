@@ -1,0 +1,11 @@
+C:\Users\mrtsv\Desktop\fibonacci\fibonacci\bin\Debug\fibonacci.exe.config
+C:\Users\mrtsv\Desktop\fibonacci\fibonacci\bin\Debug\fibonacci.exe
+C:\Users\mrtsv\Desktop\fibonacci\fibonacci\bin\Debug\fibonacci.pdb
+C:\Users\mrtsv\Desktop\fibonacci\fibonacci\obj\Debug\fibonacci.csproj.AssemblyReference.cache
+C:\Users\mrtsv\Desktop\fibonacci\fibonacci\obj\Debug\fibonacci.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrtsv\Desktop\fibonacci\fibonacci\obj\Debug\fibonacci.Form1.resources
+C:\Users\mrtsv\Desktop\fibonacci\fibonacci\obj\Debug\fibonacci.Properties.Resources.resources
+C:\Users\mrtsv\Desktop\fibonacci\fibonacci\obj\Debug\fibonacci.csproj.GenerateResource.cache
+C:\Users\mrtsv\Desktop\fibonacci\fibonacci\obj\Debug\fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\mrtsv\Desktop\fibonacci\fibonacci\obj\Debug\fibonacci.exe
+C:\Users\mrtsv\Desktop\fibonacci\fibonacci\obj\Debug\fibonacci.pdb
