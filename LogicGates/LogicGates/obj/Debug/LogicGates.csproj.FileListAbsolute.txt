@@ -1,0 +1,11 @@
+C:\Users\mrtsv\Desktop\LogicGates\LogicGates\bin\Debug\LogicGates.exe.config
+C:\Users\mrtsv\Desktop\LogicGates\LogicGates\bin\Debug\LogicGates.exe
+C:\Users\mrtsv\Desktop\LogicGates\LogicGates\bin\Debug\LogicGates.pdb
+C:\Users\mrtsv\Desktop\LogicGates\LogicGates\obj\Debug\LogicGates.csproj.AssemblyReference.cache
+C:\Users\mrtsv\Desktop\LogicGates\LogicGates\obj\Debug\LogicGates.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrtsv\Desktop\LogicGates\LogicGates\obj\Debug\LogicGates.Form1.resources
+C:\Users\mrtsv\Desktop\LogicGates\LogicGates\obj\Debug\LogicGates.Properties.Resources.resources
+C:\Users\mrtsv\Desktop\LogicGates\LogicGates\obj\Debug\LogicGates.csproj.GenerateResource.cache
+C:\Users\mrtsv\Desktop\LogicGates\LogicGates\obj\Debug\LogicGates.csproj.CoreCompileInputs.cache
+C:\Users\mrtsv\Desktop\LogicGates\LogicGates\obj\Debug\LogicGates.exe
+C:\Users\mrtsv\Desktop\LogicGates\LogicGates\obj\Debug\LogicGates.pdb
