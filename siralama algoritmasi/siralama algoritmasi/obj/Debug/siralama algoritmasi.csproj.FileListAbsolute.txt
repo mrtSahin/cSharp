@@ -1,0 +1,11 @@
+C:\Users\mrtsv\Desktop\siralama algoritmasi\siralama algoritmasi\bin\Debug\siralama algoritmasi.exe.config
+C:\Users\mrtsv\Desktop\siralama algoritmasi\siralama algoritmasi\bin\Debug\siralama algoritmasi.exe
+C:\Users\mrtsv\Desktop\siralama algoritmasi\siralama algoritmasi\bin\Debug\siralama algoritmasi.pdb
+C:\Users\mrtsv\Desktop\siralama algoritmasi\siralama algoritmasi\obj\Debug\siralama algoritmasi.csproj.AssemblyReference.cache
+C:\Users\mrtsv\Desktop\siralama algoritmasi\siralama algoritmasi\obj\Debug\siralama algoritmasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrtsv\Desktop\siralama algoritmasi\siralama algoritmasi\obj\Debug\siralama_algoritmasi.Form1.resources
+C:\Users\mrtsv\Desktop\siralama algoritmasi\siralama algoritmasi\obj\Debug\siralama_algoritmasi.Properties.Resources.resources
+C:\Users\mrtsv\Desktop\siralama algoritmasi\siralama algoritmasi\obj\Debug\siralama algoritmasi.csproj.GenerateResource.cache
+C:\Users\mrtsv\Desktop\siralama algoritmasi\siralama algoritmasi\obj\Debug\siralama algoritmasi.csproj.CoreCompileInputs.cache
+C:\Users\mrtsv\Desktop\siralama algoritmasi\siralama algoritmasi\obj\Debug\siralama algoritmasi.exe
+C:\Users\mrtsv\Desktop\siralama algoritmasi\siralama algoritmasi\obj\Debug\siralama algoritmasi.pdb
