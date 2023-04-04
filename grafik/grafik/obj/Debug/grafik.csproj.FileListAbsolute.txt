@@ -1,0 +1,11 @@
+C:\Users\mrtsv\Desktop\grafik\grafik\bin\Debug\grafik.exe.config
+C:\Users\mrtsv\Desktop\grafik\grafik\bin\Debug\grafik.exe
+C:\Users\mrtsv\Desktop\grafik\grafik\bin\Debug\grafik.pdb
+C:\Users\mrtsv\Desktop\grafik\grafik\obj\Debug\grafik.csproj.AssemblyReference.cache
+C:\Users\mrtsv\Desktop\grafik\grafik\obj\Debug\grafik.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrtsv\Desktop\grafik\grafik\obj\Debug\grafik.Form1.resources
+C:\Users\mrtsv\Desktop\grafik\grafik\obj\Debug\grafik.Properties.Resources.resources
+C:\Users\mrtsv\Desktop\grafik\grafik\obj\Debug\grafik.csproj.GenerateResource.cache
+C:\Users\mrtsv\Desktop\grafik\grafik\obj\Debug\grafik.csproj.CoreCompileInputs.cache
+C:\Users\mrtsv\Desktop\grafik\grafik\obj\Debug\grafik.exe
+C:\Users\mrtsv\Desktop\grafik\grafik\obj\Debug\grafik.pdb
